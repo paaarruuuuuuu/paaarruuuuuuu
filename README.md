@@ -8,9 +8,11 @@
     
     I simplify complex workflows by crafting robust automation systems and modern, high-performance web applications that scale.
 
-    **🟢 OPEN FOR BUSINESS**
+    * **🟢 OPEN FOR BUSINESS**
     
 </div>
+
+---
 
 ---
 
