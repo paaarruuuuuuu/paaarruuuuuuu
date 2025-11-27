@@ -1,36 +1,68 @@
-| **Top Languages** | `github-readme-stats` | Display your proficiency in languages like Python, Next.js, and Java (as listed on your site). |
-| | | **Code to Copy:** (Replace `YOUR_USERNAME`) |
-| | | ```markdown
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula&langs_count=6&hide_border=true)](https://github.com/YOUR_USERNAME)
-``` |
-| **Typing Animation** | `Readme Typing SVG` | Add a cool animation for your headline (e.g., "Full Stack Developer," "Automation Expert") for a modern, interactive feel. |
-| | | **Code to Copy:** |
-| | | ```markdown
-# <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=FFFFFF&center=true&vCenter=true&width=430&lines=Hi%2C+I'm+pranav.;Full+Stack+Developer+%26+Automation+Expert.;Building+High-Performance+Web+Apps.;Let's+Build+Something." alt="Typing SVG" />
-``` |
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=FFFFFF&center=true&vCenter=true&width=430&lines=Hi%2C+I'm+pranav.;Full+Stack+Developer+%26+Automation+Expert.;Building+High-Performance+Web+Apps.;Let's+Build+Something." alt="Typing SVG" />
 
-### 3. Advanced Customization & Automation (High-Effort)
+    <p>
+        I help automate business processes and build high-performance web applications that scale, based in Kerala, India.
+    </p>
+</div>
 
-To truly make it a landing page, you can use **GitHub Actions** to programmatically update your README. Since you specialize in automation, this is an excellent way to showcase your skills.
+<br>
 
-**Goal: Display Your Latest Blog/Project Posts (e.g., from BitWise Ltd.)**
+<div align="center">
+    <a href="https://github.com/paaarruuuuuuu">
+        <img src="https://github-readme-stats.vercel.app/api?username=paaarruuuuuuu&show_icons=true&theme=dracula&line_height=25&hide_border=true&custom_title=pranav's%20Developer%20Stats" 
+            alt="pranav's GitHub Stats" 
+            style="margin-bottom: 20px;"
+        />
+    </a>
+    <a href="https://github.com/paaarruuuuuuu">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paaarruuuuuuu&layout=compact&theme=dracula&langs_count=6&hide_border=true" 
+            alt="Top Languages" 
+            style="margin-bottom: 20px;"
+        />
+    </a>
+</div>
 
-1.  **Write a Python Script:** Create a Python script in your profile repository that uses an RSS feed or simple web scraping to fetch the latest post titles and links.
-2.  **Mark Your README:** In your `README.md`, add a placeholder comment where the new content should go:
-    ```markdown
-    ```
-3.  **Use a GitHub Action:** Configure a workflow file (e.g., `.github/workflows/update-readme.yml`) to run the Python script daily. The script will write the new Markdown/HTML into the placeholder in the `README.md` and commit the change back to the repository.
+<br>
+<br>
 
-This setup automates the maintenance of your profile, making it a live dashboard of your work.
+<h2 align="center">🛠️ Tech Stack & Expertise</h2>
 
-### 4. Custom HTML/CSS Styling
+<div align="center">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    
+    <br>
+    
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/Automation-9507E7?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Automation" />
+    <img src="https://img.shields.io/badge/Chatbots-28E4FF?style=for-the-badge&logo=messenger&logoColor=black" alt="Chatbots" />
+</div>
 
-While Markdown is limited, you can inject more sophisticated styles and structure using pure HTML, which is supported in the README. You can even use the **SVG `<foreignObject>` technique** to embed your custom CSS, allowing you to use your preferred fonts (`Plus Jakarta Sans`, `JetBrains Mono`) and colors directly from your `style.css`.
+<br>
+<br>
 
-You can use the basic HTML structure from your **`index.html`** to structure your profile, replacing the `div`s with Markdown sections or simplified HTML/CSS blocks.
+<h2 align="center">🤝 Let's Connect</h2>
 
-| Element | Customization Idea |
-| :--- | :--- |
-| **Intro Section** | Use your professional bio: "I help automate business processes and build high-performance web applications that scale." |
-| **Skills Section** | Use **Shields Badges** (like Simple Icons) in your brand colors for Java, Next.js, Python, Django, and Tailwind, matching the stack marquee on your site. |
-| **Call to Action** | End with a clear invitation to collaborate or reach out. You already have the contact email: `mailto:penguinbitwise@gmail.com`. |
+<div align="center">
+    <p>I am open to new projects and collaborations. Feel free to reach out!</p>
+    
+    <a href="mailto:penguinbitwise@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://prnvsk.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-617FDF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    &nbsp;
+    <a href="https://discord.com/users/899229439441899620" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+</div>
+
+<br>
