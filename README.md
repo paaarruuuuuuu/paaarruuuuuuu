@@ -1,18 +1,19 @@
-<div align="center">
+<p align="center">
     <a href="https://prnvsk.vercel.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/paaarruuuuuuu/paaarruuuuuuu/main/prnv.jpeg" alt="prnv." width="550"/>
     </a>
-    
+</p>
+<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=957DAD&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%26+Automation+Expert.;Building+High-Performance+Web+Apps.;Let's+Collaborate." alt="Typing SVG" />
+</p>
 
-    
+<p align="center">
     I simplify complex workflows by crafting robust automation systems and modern, high-performance web applications that scale.
+</p>
 
+<p align="center">
     * **🟢 OPEN FOR BUSINESS**
-    
-</div>
-
----
+</p>
 
 ---
 
