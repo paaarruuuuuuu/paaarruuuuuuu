@@ -24,9 +24,9 @@
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-    
-    <br>
-    
+</div>
+
+<div align="center">
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
     <img src="https://img.shields.io/badge/Automation-9507E7?style=flat-square&logo=robot-framework&logoColor=white" alt="Automation" />
     <img src="https://img.shields.io/badge/Chatbots-5865F2?style=flat-square&logo=messenger&logoColor=white" alt="Chatbots" />
