@@ -4,7 +4,7 @@
     </a>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=957DAD&center=true&vCenter=true&width=480&lines=Full+Stack+Developer+%26+Automation+Expert.;High-Performance+Web+Apps.;Let's+Collaborate." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=957DAD&center=true&vCenter=true&width=460&lines=Full+Stack+%26+Automation+Expert.;High-Performance+Web+Apps.;Let's+Collaborate." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,6 @@
 <p align="center">
     **🟢 OPEN FOR BUSINESS**
 </p>
-
 
 ---
 
