@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://prnvsk.vercel.app/" target="_blank">
+    <a href="https://prnv.cloud" target="_blank">
         <img src="https://raw.githubusercontent.com/paaarruuuuuuu/paaarruuuuuuu/main/prnv.jpeg" alt="prnv." width="450"/>
     </a>
 </p>
@@ -37,15 +37,25 @@
 
 ---
 
+<h2 align="center">🚀 My Work & Business</h2>
+
+<div align="center">
+    <a href="https://prnv.cloud" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-prnv.cloud-617FDF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://synaptive.space" target="_blank">
+        <img src="https://img.shields.io/badge/Founder-Synaptive.Space-000000?style=for-the-badge&logo=stellar&logoColor=white" alt="Synaptive" />
+    </a>
+</div>
+
+<br>
+
 <h2 align="center">🔗 Let's Connect</h2>
 
 <div align="center">
     <a href="mailto:penguinbitwise@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:penguinbitwise@gmail.com" alt="Email" />
-    </a>
-    &nbsp;
-    <a href="https://prnvsk.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-617FDF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     &nbsp;
     <a href="https://discord.com/users/899229439441899620" target="_blank">
