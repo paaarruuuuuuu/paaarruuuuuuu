@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    I simplify complex workflows by crafting robust automation systems and modern, high-performance web applications that scale.
+    I engineer digital experiences—transforming complex problems into sleek, high-performance web apps and seamless automation workflows.
 </p>
 
 <p align="center">
@@ -19,11 +19,11 @@
 
 <div align="center">
     <a href="https://synaptive.space" target="_blank">
-        <img src="https://img.shields.io/badge/Founder-Synaptive.Space-FF007A?style=for-the-badge&logo=planetscale&logoColor=white" alt="Synaptive" />
+        <img src="https://img.shields.io/badge/Founder-Synaptive.Space-FF61CD?style=for-the-badge&logo=vercel&logoColor=white&labelColor=210036" alt="Synaptive" />
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://prnv.cloud" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-prnv.cloud-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+        <img src="https://img.shields.io/badge/Portfolio-prnv.cloud-00D8FF?style=for-the-badge&logo=react&logoColor=white&labelColor=001730" alt="Portfolio" />
     </a>
 </div>
 
