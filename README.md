@@ -31,7 +31,7 @@
 
 ---
 
-<h2 align="center">🕹️ THE TOOLKIT</h2>
+<h2 align="center">🕹️ TECH ARSENAL</h2>
 
 <div align="center">
     <img src="https://img.shields.io/badge/HTML5-FFA07A?style=for-the-badge&logo=html5&logoColor=white&labelColor=FFA07A&color=FFA07A" alt="HTML5" />
