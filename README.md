@@ -18,12 +18,12 @@
 <br>
 
 <div align="center">
-    <a href="https://prnv.cloud" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-prnv.cloud-00C7B7?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+    <a href="https://synaptive.space" target="_blank">
+        <img src="https://img.shields.io/badge/Founder-Synaptive.Space-FF007A?style=for-the-badge&logo=planetscale&logoColor=white" alt="Synaptive" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://synaptive.space" target="_blank">
-        <img src="https://img.shields.io/badge/Founder-Synaptive.Space-FF3366?style=for-the-badge&logo=rocket&logoColor=white" alt="Synaptive" />
+    <a href="https://prnv.cloud" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-prnv.cloud-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
     </a>
 </div>
 
@@ -31,22 +31,19 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Arsenal</h2>
+<h2 align="center">🕹️ THE TOOLKIT</h2>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/HTML5-FFA07A?style=for-the-badge&logo=html5&logoColor=white&labelColor=FFA07A&color=FFA07A" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-80DEEA?style=for-the-badge&logo=css3&logoColor=black&labelColor=80DEEA&color=80DEEA" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-FFF59D?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FFF59D&color=FFF59D" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-18FFFF?style=for-the-badge&logo=react&logoColor=black&labelColor=18FFFF&color=18FFFF" alt="React" />
+    <img src="https://img.shields.io/badge/Tailwind-B388FF?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=B388FF&color=B388FF" alt="Tailwind" />
 </div>
-
 <div align="center">
-    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/Automation-9507E7?style=flat-square&logo=robot-framework&logoColor=white" alt="Automation" />
-    <img src="https://img.shields.io/badge/Chatbots-5865F2?style=flat-square&logo=messenger&logoColor=white" alt="Chatbots" />
+    <img src="https://img.shields.io/badge/Node.js-FF80AB?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=FF80AB&color=FF80AB" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Python-4DD0E1?style=for-the-badge&logo=python&logoColor=white&labelColor=4DD0E1&color=4DD0E1" alt="Python" />
+    <img src="https://img.shields.io/badge/SQL-FFF59D?style=for-the-badge&logo=postgresql&logoColor=black&labelColor=FFF59D&color=FFF59D" alt="SQL" />
 </div>
 
 ---
@@ -55,7 +52,7 @@
 
 <div align="center">
     <a href="mailto:penguinbitwise@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:penguinbitwise@gmail.com" alt="Email" />
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
     <a href="https://discord.com/users/899229439441899620" target="_blank">
