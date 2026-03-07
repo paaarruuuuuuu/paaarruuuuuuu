@@ -7,14 +7,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=957DAD&center=true&vCenter=true&width=460&lines=Full+Stack+%26+Automation+Expert.;High-Performance+Web+Apps.;Let's+Collaborate." alt="Typing SVG" />
 </p>
 
-<p align="center">
-    I engineer digital experiences—transforming complex problems into sleek, high-performance web apps and seamless automation workflows.
-</p>
-
-<p align="center">
-    <b>🟢 𝙾𝙿𝙴𝙽 𝙵𝙾𝚁 𝙱𝚄𝚂𝙸𝙽𝙴𝚂𝚂</b>
-</p>
-
 <br>
 
 <div align="center">
@@ -31,7 +23,7 @@
 
 ---
 
-<h2 align="center">🕹️ TECH ARSENAL</h2>
+<h2 align="center">🕹️ THE TOOLKIT</h2>
 
 <div align="center">
     <img src="https://img.shields.io/badge/HTML5-FFA07A?style=for-the-badge&logo=html5&logoColor=white&labelColor=FFA07A&color=FFA07A" alt="HTML5" />
