@@ -12,12 +12,26 @@
 </p>
 
 <p align="center">
-    🟢 𝙾𝙿𝙴𝙽 𝙵𝙾𝚁 𝙱𝚄𝚂𝙸𝙽𝙴𝚂𝚂
+    <b>🟢 𝙾𝙿𝙴𝙽 𝙵𝙾𝚁 𝙱𝚄𝚂𝙸𝙽𝙴𝚂𝚂</b>
 </p>
+
+<br>
+
+<div align="center">
+    <a href="https://prnv.cloud" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-prnv.cloud-00C7B7?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://synaptive.space" target="_blank">
+        <img src="https://img.shields.io/badge/Founder-Synaptive.Space-FF3366?style=for-the-badge&logo=rocket&logoColor=white" alt="Synaptive" />
+    </a>
+</div>
+
+<br>
 
 ---
 
-## ⚙️ Core Technology Stack
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
 <div align="center">
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -37,20 +51,6 @@
 
 ---
 
-<h2 align="center">🚀 My Work & Business</h2>
-
-<div align="center">
-    <a href="https://prnv.cloud" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-prnv.cloud-617FDF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://synaptive.space" target="_blank">
-        <img src="https://img.shields.io/badge/Founder-Synaptive.Space-000000?style=for-the-badge&logo=stellar&logoColor=white" alt="Synaptive" />
-    </a>
-</div>
-
-<br>
-
 <h2 align="center">🔗 Let's Connect</h2>
 
 <div align="center">
@@ -61,10 +61,4 @@
     <a href="https://discord.com/users/899229439441899620" target="_blank">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
-    &nbsp;
-    <a href="https://github.com/paaarruuuuuuu" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
 </div>
-
----
